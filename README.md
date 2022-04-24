@@ -10,8 +10,11 @@
   <a href="https://github.com/techdeiyo"><img title="Support" src="https://img.shields.io/badge/next%20update-Tomorrowm-green.svg?style=for-the-badge&logo=xcode" /></a>
 </p>-->
 
+
+
+
 <p align="center">
-  <a href="https://www.techdeiyo.com/"><img src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/Bungee%20Shades.png?raw=true" width="500" alt="Profile"/> </a>
+  <a href="https://www.techdeiyo.com/"><img src="https://i0.wp.com/www.techdeiyo.com/storage/2022/03/cropped-cropped-cropped-YouTubeLayout.png?fit=960%2C143&ssl=1" width="500" alt="Profile"/> </a>
 </p>
 
 <p align="center">
@@ -19,27 +22,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/techdeiyo"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v1-cyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/c/alienalfa"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=rose"></a>
+<a href="https://www.youtube.com/c/techdeiyo"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=rose"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/alien-Alfa"><img title="Developer" src="https://img.shields.io/badge/Author-Alien%20Alfa-blue.svg?style=for-the-badge&logo=github" /></a>
-</p>
-<br><br><br>
-<p align="center">
-  <a href="https://www.youtube.com/c/alienalfa"><img title="Join Whatsapp Group" src="https://raw.githubusercontent.com/Alien-alfa/PublicBot/main/wlogo.svg.png" width="600"></a>
+  <a href="https://github.com/techdeiyo">𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 - 𝗧𝗘𝗖𝗛 𝗗𝗘𝗜𝗬𝗢 - 𝗟𝗞</a>
 </p>
 <br><br>
-<p align="center">
-  <a href="https://chat.whatsapp.com/JKdPcantKre0Mx3mzNUdIu"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="150"></a>
-</p>
-
-<br><br>
-
-
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
@@ -54,11 +46,11 @@
  
  `Use This Button To Fork Now`
   
-  <a href="https://github.com/Alien-alfa/WhatsAppBot-MD/fork"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
+  <a href="https://github.com/Alien-alfa/WhatsAppBot-MD/fork"><img title="ＴＥＣＨ ＤＥＩＹＯ" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/img/pngegg.png?raw=true" width="200"></a>
 <br>
 # `Scan QR Code For Session`
  
-<a href="https://bit.ly/3MnJRjE"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
+<a href="https://bit.ly/3MnJRjE"><img title="ＴＥＣＨ ＤＥＩＹＯ" src="https://repl.it/badge/github/quiec/whatsasena" width="300"></a>
   <br><br><br>
 # `Change Session In Github`
 
@@ -79,7 +71,7 @@ Scan The Code in repl.it then copyand past the session in session.alfa.json file
   # `Deploy In Heroku`
 <!--
 
-<a href="https://heroku.com/deploy?template=https://github.com/Alien-alfa/WhatsAppBot-MD"><img title="ＡＬＩＥＮ ＡＬＦＡ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/techdeiyo/WhatsAppBot-LK"><img title="ＴＥＣＨ ＤＥＩＹＯ" src="https://www.herokucdn.com/deploy/button.svg" width="400"></a>
 
  -->
   
@@ -89,7 +81,7 @@ Click [FORK](https://github.com/Alien-Alfa/WhatsAppBot-MD/fork) <br>
 Now copy this url and change GITHUBID with your github username and click GO <br>.
 
   ```
-  https://heroku.com/deploy?template=https://github.com/GITHUBID/WhatsAppBot-MD 
+  https://heroku.com/deploy?template=https://github.com/GITHUBID/WhatsAppBot-LK
   ```
   
   <br> <br>
@@ -198,7 +190,7 @@ This project is open source so all the codes are clear. Neither less nor more; y
 If you are concerned about security, you can install it on your own computer. If you think someone else has captured your data, simply click on **Whatsapp> Three Dots> Linked Devices> Logout** from all sessions button.
 
 ### ⚠️ Is it paid?
-**Of course not.** It will never happen. But you can donate to us. You can reach me via [Instagram](https://www.instagram.com/_the_soul_rider_/) .
+**Of course not.** It will never happen. But you can donate to us.
 
 ### ⚠️ Warning! 
 ```
@@ -210,12 +202,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
   
 ## ⚠️ Developers
   <div align="center">
-  
-| [![Alien-Alfa](https://github.com/Alien-alfa.png?size=200)](https://github.com/Alien-Alfa) |[![Dika Ardnt.](https://github.com/DikaArdnt.png?size=200)](https://quiec.tech) |
-|----|----|
-| [꧁𓊈𒆜ＡＬＩＥＮ ＡＬＦＡ𒆜𓊉꧂](https://github.com/AI-VIKI) | [꧁𓊈𒆜ＤＩＫＡ ＡＲＤＮＴ𒆜𓊉꧂](https://github.com/DikaArdnt) | 
-|  𒆜Bug Fixes, Modules, updates𒆜 |   𒆜Author, Base, Update as MD𒆜 |
-  
+ ---------------------------------------------
   </div>
 
 ## ❗ Warning
@@ -227,14 +214,6 @@ Get Apikey zenz on [`zenz`](https://zenzapi.xyz/pricing)
 
 ## ⚠️ Thanks To
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
-* [`Alien Alfa`](https://github.com/Alien-Alfa)
-* [`Mhankbarbar`](https://github.com/MhankBarBar)
-* [`DikaArdnt`](https://github.com/DikaArdnt)
-* [`Fatih Arridho`](https://github.com/FatihArridho)
-* [`zhwzein`](https://github.com/zhwzein)
-* [`CAF-ID`](https://github.com/CAF-ID)
-* [`Hisoka775`](https://github.com/Hisoka775)
 
 
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
